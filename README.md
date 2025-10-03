@@ -3,7 +3,7 @@
 ### What I Work With
 
 #### Programming Languages
-`Python` • `C` • `JavaScript` • `TypeScript`
+`Python` • `C` • `Java` • `JavaScript` • `TypeScript` 
 
 #### AI & Machine Learning
 `NumPy` • `Pandas` • `Matplotlib` • `Seaborn`  
