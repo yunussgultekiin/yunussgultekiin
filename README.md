@@ -5,9 +5,11 @@
 #### Programming Languages
 `Python` • `C` • `Java` • `JavaScript` • `TypeScript` 
 
-#### AI & Machine Learning
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn`  
-*(Currently learning machine learning, deep learning, NLP, LLM, and generative AI)*
+#### Data Science & Machine Learning
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `XGBoost` • `LightGBM` • `Scikit-learn`   
+`Supervised Learning` • `Unsupervised Learning` • `Statistical Learning` • `Feature Engineering`    
+`Model Evaluation & Validation` • `Time Series Analysis` • `Apache Spark`      
+*(Currently learning deep learning, NLP, LLM, and generative AI)* 
 
 #### Frontend & Backend Ecosystem
 `React (Next.js, Tailwind CSS, Redux)` • `HTML5/CSS3` • `Node.js (Express)`        
@@ -19,6 +21,8 @@
 `Docker` • `Firebase` • `Heroku` • `Nginx`    
 
 #### DevOps & MLOps
+`Docker` • `ML Pipelines` • `Model Versioning (DVC)`
+`CI/CD for ML (GitHub Actions)`    
 *(Currently learning observability, infrastructure as code, cloud deployment, and MLOps strategies)*
 
 #### Testing & QA
