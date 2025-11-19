@@ -12,7 +12,7 @@
 *(Currently learning deep learning, NLP, LLM, and generative AI)* 
 
 #### Frontend & Backend Ecosystem
-`React(Material UI, Tailwind CSS, Redux, Axios) ` • `HTML5/CSS3` 
+`React(Material UI, Tailwind CSS, Redux, Axios) ` • `HTML5/CSS3`        
 `Node.js (Express, Middleware Architecture, JWT Auth)` • `FastAPI/Flask/httpx` • `WebSockets`
 
 #### Databases & Infrastructure
