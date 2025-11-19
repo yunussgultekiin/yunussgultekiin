@@ -6,14 +6,14 @@
 `Python` • `C` • `Java` • `JavaScript` • `TypeScript` 
 
 #### Data Science & Machine Learning
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `XGBoost` • `LightGBM` • `Scikit-learn`   
-`Supervised Learning` • `Unsupervised Learning` • `Statistical Learning` • `Feature Engineering`    
-`Model Evaluation & Validation` • `Time Series Analysis` • `Apache Spark`      
+`NumPy` • `Pandas` • `SciPy` • `CVXPY` • `Statsmodels` • `NetworkX` • `Matplotlib` • `Seaborn` • `Scikit-learn`    
+`XGBoost` • `LightGBM` • `Supervised & Unsupervised Learning` • `Statistical Learning` • `Feature Engineering`     
+`Model Evaluation & Validation` • `Time Series Analysis` • `Apache Spark` • `Apache Kafka (Data Streaming)`       
 *(Currently learning deep learning, NLP, LLM, and generative AI)* 
 
 #### Frontend & Backend Ecosystem
-`React (Next.js, Tailwind CSS, Redux)` • `HTML5/CSS3` • `Node.js (Express)`        
-`FastAPI/Flask/httpx` • `GraphQL` • `WebSockets` • `Apache Kafka`
+`React(Material UI, Tailwind CSS, Redux, Axios) ` • `HTML5/CSS3` 
+`Node.js (Express, Middleware Architecture, JWT Auth)` • `FastAPI/Flask/httpx` • `WebSockets`
 
 #### Databases & Infrastructure
 `PostgreSQL` • `MySQL` • `MongoDB` • `Redis`  
