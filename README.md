@@ -6,9 +6,9 @@
 `Python` • `C` • `Java` • `JavaScript` • `TypeScript` 
 
 #### Data Science & Machine Learning
-`NumPy` • `Pandas` • `SciPy` • `CVXPY` • `Statsmodels` • `NetworkX` • `Matplotlib` • `Seaborn` • `Scikit-learn`    
-`XGBoost` • `LightGBM` • `Supervised & Unsupervised Learning` • `Statistical Learning` • `Feature Engineering`     
-`Model Evaluation & Validation` • `Time Series Analysis` • `Apache Spark` • `Apache Kafka (Data Streaming)`       
+`NumPy` • `Pandas` • `SciPy` • `Statsmodels` • `NetworkX` • `Matplotlib` • `Seaborn`       
+`Scikit-learn` • `XGBoost` • `LightGBM` • `Supervised & Unsupervised Learning`      
+`Statistical Learning` • `Feature Engineering` •  `Model Evaluation & Validation`           
 *(Currently learning deep learning, NLP, LLM, and generative AI)* 
 
 #### Frontend & Backend Ecosystem
