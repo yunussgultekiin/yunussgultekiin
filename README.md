@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! I'm Yunus Emre <img src="https://github.com/yunustechin/yunustechin/blob/master/Hi.gif" width="25"></h2>
+<h2 align="center">Hey there! I'm Yunus Emre <img src="https://github.com/yunustechin/yunussgultekiin/blob/master/Hi.gif" width="25"></h2>
 
 ### What I Work With
 
@@ -19,11 +19,6 @@
 `PostgreSQL` • `MySQL` • `MongoDB` • `Redis`  
 `Sequelize` • `TypeORM` • `SQLAlchemy`    
 `Docker` • `Firebase` • `Heroku` • `Nginx`    
-
-#### DevOps & MLOps
-`Docker` • `ML Pipelines` • `Model Versioning (DVC)`
-`CI/CD for ML (GitHub Actions)`    
-*(Currently learning observability, infrastructure as code, cloud deployment, and MLOps strategies)*
 
 #### Testing & QA
 `Lint / Static Analysis` • `Unit Testing` • `Integration Testing` • `End-to-End Testing `     
